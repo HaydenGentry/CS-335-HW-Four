@@ -1,5 +1,5 @@
 # CS-335-HW-Four
-Dealership Database and Queries
+Car Dealership Database and Queries in SQL
 
 In this milestone we will create a database for a car dealership, insert values into that database, and query that database.
 
